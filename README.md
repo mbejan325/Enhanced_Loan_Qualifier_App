@@ -2,8 +2,7 @@
 
 ![markdown-image](loanapp.webp)
 
-**Introduction.**
-Welcome!
+**Welcome!**
 
 This project contains an application that evaluates what loans a user qualifies for based on a few criteria. The possible loans are pre-selected and can be viewed in the "daily_rate_sheet.csv" file in the "data" folder. The project's key feature allows users to save qualifying loans to a csv file that will appear in the data folder upon completion of the application. 
 
@@ -14,13 +13,17 @@ Frameworks: N/A
 Operating Systems: Windows 10
 
 **Installation Guide**
+
+***See the "Usage Examples" section for further clarification.***
+
 To run this application please follow the following steps:
 1)  Clone the repository
-2)  Open up your python CLI and activate the dev           environment. Python version 3.7.10 needs to be used.
+2)  Open up your python CLI and activate the dev environment. Python version 3.7.10 needs to be used.
 3)  Navigate to the "Enhanced_Loan_Qualifier_App" folder and run the "code ." command to open VS Code.
-4)  Run the python file in the terminal and fill in the required information when prompted. 
+4)  In VS Code select the "app_final.py" file and run the python terminal.
 5)  Enter in the daily rate sheet file and the required information when prompted.
 6)  After completing the application, users will be prompted to save their potential loans in a csv file that will appear in the "data" folder.
+
 
 **Usage Examples**
 
