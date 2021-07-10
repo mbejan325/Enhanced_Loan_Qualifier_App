@@ -14,16 +14,13 @@ Operating Systems: Windows 10
 
 **Installation Guide**
 
-***See the "Usage Examples" section for further clarification.***
-
 To run this application please follow the following steps:
 1)  Clone the repository
 2)  Open up your python CLI and activate the dev environment. Python version 3.7.10 needs to be used.
 3)  Navigate to the "Enhanced_Loan_Qualifier_App" folder and run the "code ." command to open VS Code.
 4)  In VS Code select the "app_final.py" file and run the python terminal.
-5)  Enter in the daily rate sheet file and the required information when prompted.
+5)  Enter in the daily rate sheet file and the required information when prompted. See "Usage Examples" for clarification on inputs.
 6)  After completing the application, users will be prompted to save their potential loans in a csv file that will appear in the "data" folder.
-
 
 **Usage Examples**
 
