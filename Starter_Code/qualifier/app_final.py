@@ -122,7 +122,7 @@ def save_qualifying_loans(qualifying_loans):
     print(f"The qualifying loans have been saved in the data folder.")
    
     if not ouput_path:
-        sys.exit(f"Oops! Can't find this path: {ouput_path}")
+        sys.exit(f"Oops! This is not a valid output path: {ouput_path}")
     
     else:
         save_csv(f"data/{ouput_path}", qualifying_loans) 
