@@ -30,7 +30,6 @@ Email: mbejan@scu.edu
 LinkedIn: https://www.linkedin.com/in/michael-bejan-b52496109/
 
 **License**
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify others what they can and can not do with your source code and files. Use this section to include the licence you want to use.
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
