@@ -25,7 +25,8 @@ To run this application please follow the following steps:
 **Usage Examples**
 
 ![markdown-image](code1.PNG)
-Exmaple of inputs to properly run application and save results. Use the same rate sheet, but the qualifying loans csv file can be named anything.
+
+Walkthrough on how to properly run the application and save results. Use the same rate sheet. The qualifying loans csv file can be named anything.
 
 **Contributors**
 
