@@ -24,9 +24,14 @@ To run this application please follow the following steps:
 
 **Usage Examples**
 
+![markdown-image](code1.PNG)
+
 **Contributors**
+
 Author: Michael Bejan
+
 Email: mbejan@scu.edu
+
 LinkedIn: https://www.linkedin.com/in/michael-bejan-b52496109/
 
 **License**
