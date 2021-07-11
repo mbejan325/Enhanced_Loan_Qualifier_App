@@ -25,13 +25,12 @@ To run this application please follow the following steps:
 **Usage Examples**
 
 ![markdown-image](code1.PNG)
+Exmaple of inputs to properly run application and save results. Use the same rate sheet, but the qualifying loans csv file can be named anything.
 
 **Contributors**
 
 Author: Michael Bejan
-
 Email: mbejan@scu.edu
-
 LinkedIn: https://www.linkedin.com/in/michael-bejan-b52496109/
 
 **License**
