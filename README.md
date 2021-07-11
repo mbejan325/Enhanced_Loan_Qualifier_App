@@ -30,7 +30,9 @@ Exmaple of inputs to properly run application and save results. Use the same rat
 **Contributors**
 
 Author: Michael Bejan
+
 Email: mbejan@scu.edu
+
 LinkedIn: https://www.linkedin.com/in/michael-bejan-b52496109/
 
 **License**
