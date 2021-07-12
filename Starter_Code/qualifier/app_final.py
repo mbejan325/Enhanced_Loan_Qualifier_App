@@ -117,7 +117,7 @@ def save_qualifying_loans(qualifying_loans):
         A list of the qualifying bank loans.
 
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files./data/daily_rate_sheet.csv
+    # Complete the usability dialog for savings the CSV Files. "data/" is not necessary this time, simply input your desired name for the csv file.
     ouput_path = questionary.text("Enter a name to save the qualifying loans as a csv file.").ask()
     print(f"The qualifying loans have been saved in the data folder.")
    
