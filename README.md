@@ -28,6 +28,10 @@ To run this application please follow the following steps:
 
 Walkthrough on how to properly run the application and save results. Use the same rate sheet. The qualifying loans csv file can be named anything.
 
+![markdown-image](Code2.PNG)
+
+Shows the qualifying loans from the data provided above and the file location in VS Code.
+
 **Contributors**
 
 Author: Michael Bejan
